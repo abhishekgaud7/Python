@@ -1,3 +1,4 @@
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[34] Python is dynamically type-checked and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.
 
 Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language. Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions. Beginning with Python 3.5,[35] capabilities and keywords for typing were added to the language, allowing optional static typing.[36] As of 2025, the Python Software Foundation supports Python 3.10, 3.11, 3.12, 3.13, and 3.14, following the projects annual release cycle and five-year support policy. Earlier versions in the 3.x series have reached end-of-life and no longer receive security updates.
 
