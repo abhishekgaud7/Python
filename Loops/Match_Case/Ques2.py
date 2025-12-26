@@ -1,0 +1,23 @@
+# Ask the user to enter a day number (1–7) and print the corresponding day of the week using match case.
+
+
+number=int(input("Entre the day Number Between 1 to 7:"))
+print(number)
+
+match number:
+    case 1:
+        print("Monday")
+    case 2:
+        print("Tuesday")
+    case 3:
+        print("Wednesday")      
+    case 4:
+        print("Thursday")   
+    case 5:
+        print("Friday")
+    case 6:
+        print("Saturday")
+    case 7:
+        print("Sunday")
+    case _:
+        print("Invalid Day Number")
