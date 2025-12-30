@@ -6,7 +6,6 @@ for i in range(1,6):
     else:
         print(i)
 
-        print("\n")
 
 for i in range(1,6):
     if i == 3:
