@@ -6,7 +6,7 @@ for i in range(1,6):
     else:
         print(i)
 
-# Alternative solution using continue
+# Alternative solution using continu
 
 for i in range(1,6):
     if i == 3:
