@@ -5,3 +5,4 @@
 # The program should also calculate and print the sum of these even natural numbers.
 # Finally, the program should display the average of these even natural numbers.
 # The average is calculated as the sum divided by n.
+# The program should handle invalid inputs gracefully.
