@@ -6,3 +6,4 @@
 # Finally, the program should display the average of these even natural numbers.
 # The average is calculated as the sum divided by n.
 # The program should handle invalid inputs gracefully.
+# For example, if the user enters a negative number or zero, the program should prompt them to enter a valid positive integer.
