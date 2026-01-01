@@ -11,3 +11,4 @@
 # After printing the even natural numbers, sum, and average, the program should terminate.
 # Example output:
 # Enter the value of n: 5
+# First 5 even natural numbers are:
