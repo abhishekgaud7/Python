@@ -8,3 +8,4 @@
 # The program should handle invalid inputs gracefully.
 # For example, if the user enters a negative number or zero, the program should prompt them to enter a valid positive integer.
 # The program should continue to prompt the user until a valid input is received.
+# After printing the even natural numbers, sum, and average, the program should terminate.
