@@ -10,3 +10,4 @@
 # The program should continue to prompt the user until a valid input is received.
 # After printing the even natural numbers, sum, and average, the program should terminate.
 # Example output:
+# Enter the value of n: 5
