@@ -3,3 +3,4 @@
 
 # taking input from user
 # n represents how many even natural numbers to print
+# we convert the input to integer as input() function returns string
