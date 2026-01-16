@@ -3,3 +3,5 @@
 
 # Function to print first n even natural numbers
 # n: number of even natural numbers to print
+# returns: None
+def print_even_natural_numbers(n):
