@@ -37,7 +37,6 @@ if remove_book.lower() != 'skip':
         print(f"'{remove_book}' has been removed from the library.")
     else:
         print(f"'{remove_book}' not found in the library.")
-
 # Searching for a book
 search_book = input("\nEnter the name of the book to search in the library: ")
 if search_book in library:
