@@ -6,3 +6,4 @@
 # the_string = "djbwufgu bduinjbjuds the write"
 # count = 0
 # for word in the_string.split():
+#     if word == "the":
