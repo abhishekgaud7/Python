@@ -7,3 +7,4 @@
 # count = 0
 # for word in the_string.split():
 #     if word == "the":
+#         count += 1
