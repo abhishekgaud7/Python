@@ -8,3 +8,4 @@
 # for word in the_string.split():
 #     if word == "the":
 #         count += 1
+# print("The word 'the' is present", count, "times in the string.")
